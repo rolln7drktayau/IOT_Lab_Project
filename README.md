@@ -1,4 +1,4 @@
-# 🦩 IOT_Lab_Projet – HELTEC WIFI LoRa 32V3
+# 🦩 IOT_Lab_Project – HELTEC WIFI LoRa 32V3
 
 ## 📌 Auteurs : Les Flamants Roses🦩
 
@@ -92,4 +92,3 @@ Ces captures montrent l'interface web qui affiche les données du capteur TMG399
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benabid-sorore-0b0929a2/)
 
 ---
-# IOT_Lab_Project
