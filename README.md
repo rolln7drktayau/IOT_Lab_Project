@@ -89,6 +89,8 @@ Ces captures montrent l'interface web qui affiche les données du capteur TMG399
 
 ### Sorore BENABIB
 
+---
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/benabid-sorore-0b0929a2/)
 
 ---
